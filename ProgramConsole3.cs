@@ -48,7 +48,7 @@
             //updating x value as 0 again
             x = 0;
             //printing the update on console
-            Console.WriteLine("X value is updated back to " + x)
+            Console.WriteLine("X value is updated back to " + x);
             //x-- means x + 1
             x--;
             //printing the result on console
